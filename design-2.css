@@ -1,0 +1,11 @@
+html{background-color: azure;}
+.band{color: rgb(186, 112, 86);}
+.band{text-align: center;}
+.songname{text-align:center;text-size-adjust: 20pt; color: darkcyan;}
+.song{text-align: center;}
+.song{background-color: mistyrose;}
+.song{text-decoration: solid;}
+.song{height:auto; width:auto}
+.song{font-family:cursive;font-size: 14pt;font-weight: bold; }
+.song{text-align: center;}
+#pic{width: 50%;border: 10px solid antiquewhite;margin:auto;display: block;}
